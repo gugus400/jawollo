@@ -7,7 +7,7 @@ window.onclick = (e) => {
 	let y = e.clientY
 	console.log("x: " + x  + " y: " + y)
 
-	let o = 10 / 2
+	let o = -10 / 2
 	position.style.left = x + o
 	position.style.top = y + o
 }
