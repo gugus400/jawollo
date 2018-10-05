@@ -8,3 +8,11 @@ body {
 h1 {
 	text-decoration: underline;
 }
+
+#position {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	color: transparent;
+	border: 3px solid blue;
+}
