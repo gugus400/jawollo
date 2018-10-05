@@ -1,2 +1,2 @@
 # jawollo
-lorem ipsum
+lorem ipsum dolor sit amet
