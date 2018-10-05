@@ -1,8 +1,9 @@
 body {
-	color: green;
-	background-color: orange;
+	color: #303;
+	background-color: #edd;
 	text-align: center;
 	font-size: 1.2em;
+	font-family: sans-serif;
 }
 
 h1 {
