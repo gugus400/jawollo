@@ -1,4 +1,4 @@
-# jawollo
+# mouse-position
 respond to click events
 ```javascript
 window.onclick = (e) => {
