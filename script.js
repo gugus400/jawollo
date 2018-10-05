@@ -1,6 +1,6 @@
 const position = document.getElementById("position")
 
-console.log("jawollo")
+console.log("mouse-position")
 console.log("respond to click events")
 window.onclick = (e) => {
 	let x = e.clientX
